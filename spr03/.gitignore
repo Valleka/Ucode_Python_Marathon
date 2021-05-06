@@ -2,4 +2,6 @@
 .idea
 .vscode
 *.pyc
-s02*.py
+s03t*.py
+*.txt
+*.json
