@@ -1,0 +1,86 @@
+{
+  "database": "zoo.db",
+  "table": "animals",
+  "news": [
+    {
+      "species": "Cheetah",
+      "name": "Jack",
+      "event": "birthday"
+    },
+    {
+      "species": "Iguana",
+      "name": "Lucy",
+      "event": "birthday"
+    },
+    {
+      "species": "Giraffe",
+      "name": "Daisy",
+      "event": "born"
+    },
+    {
+      "species": "Lemur",
+      "name": "Zeus",
+      "event": "died"
+    },
+    {
+      "species": "Lemur",
+      "name": "Zeus",
+      "event": "born"
+    },
+    {
+      "species": "Flamingo",
+      "name": "Coco",
+      "event": "born"
+    },
+    {
+      "species": "Seal",
+      "name": "Nala",
+      "event": "birthday"
+    },
+    {
+      "species": "Gorilla",
+      "name": "Max",
+      "event": "birthday"
+    },
+    {
+      "species": "Giraffe",
+      "name": "Alex",
+      "event": "died"
+    },
+    {
+      "species": "Giraffe",
+      "name": "Ziggy",
+      "event": "born"
+    },
+    {
+      "species": "Hyena",
+      "name": "Max",
+      "event": "born"
+    },
+    {
+      "species": "Panda",
+      "name": "Daisy",
+      "event": "born"
+    },
+    {
+      "species": "Gorilla",
+      "name": "Max",
+      "event": "birthday"
+    },
+    {
+      "species": "Cheetah",
+      "name": "Ziggy",
+      "event": "born"
+    },
+    {
+      "species": "Hyena",
+      "name": "Max",
+      "event": "died"
+    },
+    {
+      "species": "Flamingo",
+      "name": "Ruby",
+      "event": "born"
+    }
+  ]
+}

@@ -5,3 +5,4 @@ def extractor(extractable, value_type):
     res = dict(filter(tipe, dict_items)) #фильтруем только трушные объекты словаря и преобразовываем обратно в словарь
     
     return res
+    

@@ -1,0 +1,61 @@
+{
+  "database": "zoo.db",
+  "table": "animals",
+  "news": [
+    {
+      "species": "Gorilla",
+      "name": "Lucy",
+      "event": "born"
+    },
+    {
+      "species": "Anaconda",
+      "name": "Ziggy",
+      "event": "born"
+    },
+    {
+      "species": "Wolf",
+      "name": "Oscar",
+      "event": "born"
+    },
+    {
+      "species": "Penguin",
+      "name": "Coco",
+      "event": "born"
+    },
+    {
+      "species": "Anaconda",
+      "name": "Ziggy",
+      "event": "born"
+    },
+    {
+      "species": "Zebra",
+      "name": "Coco",
+      "event": "born"
+    },
+    {
+      "species": "Seal",
+      "name": "Jack",
+      "event": "born"
+    },
+    {
+      "species": "Flamingo",
+      "name": "Ziggy",
+      "event": "born"
+    },
+    {
+      "species": "Iguana",
+      "name": "Lucy",
+      "event": "born"
+    },
+    {
+      "species": "Gorilla",
+      "name": "Max",
+      "event": "born"
+    },
+    {
+      "species": "Giraffe",
+      "name": "Daisy",
+      "event": "born"
+    }
+  ]
+}
