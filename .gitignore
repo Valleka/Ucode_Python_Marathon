@@ -1,0 +1,12 @@
+.DS_Store
+.DS_Store
+.idea
+.vscode
+*.pyc
+s04t*.py
+s05t*.py
+*.json
+*.txt
+__pycache__
+*.html
+*.db
