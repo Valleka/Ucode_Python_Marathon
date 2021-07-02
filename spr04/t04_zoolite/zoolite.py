@@ -12,16 +12,14 @@ def update_zoo(data: dict):
         except Exception as e:
           s = e
         i = 0
-        count = coursor.execute(f"SELECT * from {table}")
         print(f"*** BEFORE: {len(coursor.fetchall())} animals in the zoo.")
         for n in news:
-          #age = 0
           if n["event"] == "born":
             try:
               comand = f'insert into {data["table"]} (species, name, age) values ("{n["species"]}", "{n["name"]}", 0)'
               c = coursor.execute(comand)
               if c is not None:
-                print(f"Inserted {n['species']} {n['name']} in table {table} of {data['database']}.")
+                print(f"Inserted {n['species']} {n['name']} into table {table} of {data['database']}.")
               db.commit()
             except Exception as e:
               print(f"Failed to process event: {n}. Error: {e}")

@@ -1,0 +1,39 @@
+>cat test.txt
+cat: test.txt: No such file or directory
+>python3 s05t09_with_main.py
+A [out]
+B [err]
+D [err] in Redirect
+E [out]
+F [err]
+G [out] in Redirect
+I [out]
+J [err]
+M [out]
+N [err]
+>cat test.txt
+C [out] in Redirect
+H [err] in Redirect
+K [out] in Redirect
+L [err] in Redirect
+>python3 s05t09_with_main.py
+A [out]
+B [err]
+D [err] in Redirect
+E [out]
+F [err]
+G [out] in Redirect
+I [out]
+J [err]
+M [out]
+N [err]
+>cat test.txt
+C [out] in Redirect
+H [err] in Redirect
+K [out] in Redirect
+L [err] in Redirect
+C [out] in Redirect
+H [err] in Redirect
+K [out] in Redirect
+L [err] in Redirect
+>

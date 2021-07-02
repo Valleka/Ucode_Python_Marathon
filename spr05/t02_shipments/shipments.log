@@ -1,0 +1,49 @@
+INFO [Cargo] initialized: Cargo(destination=Los Angeles, weight=1551)
+INFO [Container] initialized: Container(weight_limit=3118, cargo=None)
+INFO [Container] Cargo set: Cargo to Los Angeles with weight 1551
+INFO [Cargo] initialized: Cargo(destination=Bremen, weight=1461)
+INFO [Container] initialized: Container(weight_limit=2895, cargo=None)
+INFO [Container] Cargo set: Cargo to Bremen with weight 1461
+INFO [Cargo] initialized: Cargo(destination=Barcelona, weight=2715)
+INFO [Container] initialized: Container(weight_limit=3367, cargo=None)
+INFO [Container] Cargo set: Cargo to Barcelona with weight 2715
+INFO [Cargo] initialized: Cargo(destination=Antwerp, weight=2570)
+INFO [Container] initialized: Container(weight_limit=1944, cargo=None)
+INFO [Cargo] initialized: Cargo(destination=Santos, weight=1254)
+INFO [Container] initialized: Container(weight_limit=3027, cargo=None)
+INFO [Container] Cargo set: Cargo to Santos with weight 1254
+INFO [Cargo] initialized: Cargo(destination=Xiamen, weight=1492)
+INFO [Container] initialized: Container(weight_limit=3908, cargo=None)
+INFO [Container] Cargo set: Cargo to Xiamen with weight 1492
+INFO [Cargo] initialized: Cargo(destination=Xiamen, weight=1200)
+INFO [Container] Cargo set: Cargo to Xiamen with weight 1200
+INFO [Container] initialized: Container(weight_limit=2371, cargo=Cargo(destination=Xiamen, weight=1200))
+INFO [Cargo] initialized: Cargo(destination=Bremen, weight=2904)
+INFO [Container] initialized: Container(weight_limit=1698, cargo=None)
+INFO [Cargo] initialized: Cargo(destination=Santos, weight=1877)
+INFO [Container] initialized: Container(weight_limit=1292, cargo=None)
+INFO [Cargo] initialized: Cargo(destination=Bremen, weight=2208)
+INFO [Container] Cargo set: Cargo to Bremen with weight 2208
+INFO [Container] initialized: Container(weight_limit=2765, cargo=Cargo(destination=Bremen, weight=2208))
+INFO [Cargo] initialized: Cargo(destination=Santos, weight=1604)
+INFO [Container] initialized: Container(weight_limit=1487, cargo=None)
+INFO [Cargo] initialized: Cargo(destination=Tianjin, weight=1369)
+INFO [Container] initialized: Container(weight_limit=3277, cargo=None)
+INFO [Container] Cargo set: Cargo to Tianjin with weight 1369
+INFO [Cargo] initialized: Cargo(destination=Tianjin, weight=1202)
+INFO [Container] initialized: Container(weight_limit=2769, cargo=None)
+INFO [Container] Cargo set: Cargo to Tianjin with weight 1202
+INFO [Cargo] initialized: Cargo(destination=Bremen, weight=1028)
+INFO [Container] initialized: Container(weight_limit=3945, cargo=None)
+INFO [Container] Cargo set: Cargo to Bremen with weight 1028
+INFO [Cargo] initialized: Cargo(destination=Xiamen, weight=1353)
+INFO [Container] initialized: Container(weight_limit=1044, cargo=None)
+INFO [Cargo] initialized: Cargo(destination=Santos, weight=2334)
+INFO [Container] initialized: Container(weight_limit=3814, cargo=None)
+INFO [Container] Cargo set: Cargo to Santos with weight 2334
+INFO [Ship] Added Container: Container up to 3367 with Cargo to Barcelona with weight 2715
+INFO [Ship] Added Container: Container up to 3908 with Cargo to Xiamen with weight 1492
+INFO [Ship] Added Container: Container up to 2371 with Cargo to Xiamen with weight 1200
+INFO [Ship] initialized: Ship(route=['Barcelona', 'Xiamen', 'Tianjin'], containers=[Container(weight_limit=3367, cargo=Cargo(destination=Barcelona, weight=2715)), Container(weight_limit=3908, cargo=Cargo(destination=Xiamen, weight=1492)), Container(weight_limit=2371, cargo=Cargo(destination=Xiamen, weight=1200))])
+INFO [Ship] Added Container: Container up to 3277 with Cargo to Tianjin with weight 1369
+INFO [Ship] Added Container: Container up to 2769 with Cargo to Tianjin with weight 1202

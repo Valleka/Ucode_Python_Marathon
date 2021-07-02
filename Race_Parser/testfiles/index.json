@@ -1,0 +1,62 @@
+{
+  "locations": [
+    {
+      "city": "New York",
+      "type": "primary",
+      "clients": {
+        "new": [
+          {
+            "name": "Max B.",
+            "age": 30,
+            "pets": [
+              {
+                "name": "Fluffy",
+                "type": "dog",
+                "visits": {
+                  "2021": [
+                    "January 12"
+                  ]
+                }
+              },
+              {
+                "name": "Benedict",
+                "type": "bird"
+              }
+            ]
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Gayle L.",
+            "age": 56,
+            "pets": [
+              {
+                "name": "Mr. Cat",
+                "type": "cat",
+                "visits": {
+                   "2020": [
+                    "May 15",
+                     "November 21"
+                  ],
+                  "2021": [
+                    "February 5"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "name": "Anne s.",
+            "age": 20,
+            "pets": [
+              {
+                "name": "Rex",
+                "type": "dog"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

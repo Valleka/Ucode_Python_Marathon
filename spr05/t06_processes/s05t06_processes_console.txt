@@ -1,0 +1,5 @@
+>python3 s05t06_processes_main.py
+Matthew, 11 years old
+Chris, 28 years old
+John, 31 years old
+>

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "023",
+    "title": "orange juice",
+    "quantity": 54,
+    "category": "beverages",
+    "available": true
+  },
+  {
+    "id": "407",
+    "title": "strawberry yogurt",
+    "quantity": 12,
+    "category": "dairy",
+    "available": true
+  },
+  {
+    "id": "115",
+    "title": "banana",
+    "quantity": 0,
+    "category": "fruits",
+    "available": false
+  },
+  {
+    "id": "437",
+    "title": "milk",
+    "category": "dairy",
+    "available": true
+  },
+  {
+    "id": "90",
+    "title": "eggplant",
+    "quantity": 10,
+    "category": "vegetables",
+    "available": true
+  }
+]

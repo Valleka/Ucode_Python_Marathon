@@ -1,0 +1,22 @@
+>python3 s05t08_new_main.py
+INFO __new__ with {'name': 'Robin', 'title': 'Not-quite-so-brave-as-Sir-Lancelot', 'deed': 'Nearly fought the Dragon of Angnor.'}
+INFO __init__ with {'name': 'Robin', 'title': 'Not-quite-so-brave-as-Sir-Lancelot', 'deed': 'Nearly fought the Dragon of Angnor.'}
+INFO __new__ with {'name': 'Arthur', 'age': 25}
+ERROR Cannot create a Knight with the name Arthur. Arthur is the King.
+INFO __new__ with {'name': 'Aban', 'height': 150}
+INFO __init__ with {'name': 'Aban', 'height': 150}
+INFO __new__ with {'name': 'Ector', 'title': 'Responsible'}
+INFO __init__ with {'name': 'Ector', 'title': 'Responsible'}
+INFO __new__ with {'name': 'Galahad'}
+INFO __init__ with {'name': 'Galahad'}
+INFO __new__ with {'title': 'Brave', 'skill': 'archery'}
+ERROR Cannot create a Knight. The Round Table can only fit 4 Knights.
+INFO __new__ with {'name': 'Tristan'}
+ERROR Cannot create a Knight. The Round Table can only fit 4 Knights.
+INFO __new__ with {'name': 'Arthur'}
+ERROR Cannot create a Knight. The Round Table can only fit 4 Knights.
+{'name': 'Robin', 'title': 'Not-quite-so-brave-as-Sir-Lancelot', 'deed': 'Nearly fought the Dragon of Angnor.'}
+{'name': 'Aban', 'height': 150}
+{'name': 'Ector', 'title': 'Responsible'}
+{'name': 'Galahad'}
+>

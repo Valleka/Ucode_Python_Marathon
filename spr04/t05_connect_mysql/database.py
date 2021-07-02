@@ -20,16 +20,3 @@ def get_param():
                         d['password'] = ''
             i +=1
         return d
-
-
-if __name__ == '__main__':
-    dic = get_param()
-    try:
-        mydb = mysql.connector.connect(host=dic['host'],
-                                   user=dic['user'],
-                                   password=dic['password'])
-        print(f"Connected to MySQL server (version {mydb.get_server_info()}).")
-        mydb.close()
-        print("MySQL connection is closed")
-    except mysql.connector.Error as e:
-        print("MySQL connection Error: {}".format(e))
