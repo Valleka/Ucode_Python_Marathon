@@ -1,0 +1,4 @@
+level: <INFO>: "Getting args"
+level: <INFO>: "Args parsed"
+level: <INFO>: "Sending request"
+level: <INFO>: "Recieved data with status 200"
